@@ -1,0 +1,49 @@
+AUTHOR : IDIN CODE
+DESIGN   : LARA NODE
+TRANSLATE : AI
+
+Berikut adalah daftar yang lebih rapi dari fitur-fitur tersebut:
+
+1. Fitur Utama:
+- HTML5 dan CSS3
+- Bootstrap 5
+- Kode yang bersih dan terkomentari dengan baik
+- Kode yang ramah pengembang dan ramah SEO
+- Desain tata letak yang unik, modern, dan fleksibel
+- Kompatibel dengan semua browser web modern
+- Cocok untuk website satu halaman dan multi-halaman
+
+2. Navigasi dan Header:
+- Navigasi yang lengket dan ramah seluler
+- Header hero yang responsif
+- Menu burger
+- Menu dropdown
+
+3. Animasi dan Efek:
+- Animasi saat menggulir halaman
+- Efek hover CSS3
+
+4. Komponen Tambahan:
+- Penghitung fakta menarik
+- Carousel testimonial
+- Desain tabel harga
+- Antarmuka formulir newsletter
+- Tautan sosial dengan ikon
+- Tombol "Kembali ke Atas"
+- Antarmuka formulir kontak
+
+5. Dukungan dan Pustaka:
+- Dukungan font web Google
+- Dukungan font ikon Bootstrap
+- Font ikon Font Awesome
+- Pustaka dan Plug-in:
+  - Bootstrap 5
+  - FontAwesome
+  - Owl Carousel
+  - Google Fonts
+
+6. Isi Paket:
+- Satu Halaman HTML
+- HTML & CSS
+- File Sumber JavaScript
+- Semua Gambar Demo
